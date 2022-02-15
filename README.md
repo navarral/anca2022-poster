@@ -1,5 +1,8 @@
 # Rare diseases: making environmental health studies’ data as open as possible
 [The 20th International Vasculitis and ANCA Workshop | Dublin, Ireland, 3-6 April 2022](https://vasculitis2022.org/)
+
+Contact: albert.navarro@adaptcentre.ie
+
 ## Authors
 Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Solange Gonzalez Chiappe<sup>3</sup>, Fabrizio Orlandi<sup>1</sup> and Declan O’Sullivan<sup>1</sup>
 
