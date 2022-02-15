@@ -1,8 +1,6 @@
 # Rare diseases: making environmental health studies’ data as open as possible
 [The 20th International Vasculitis and ANCA Workshop | Dublin, Ireland, 3-6 April 2022](https://vasculitis2022.org/)
 
-Contact: albert.navarro@adaptcentre.ie
-
 ## Authors
 Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Solange Gonzalez Chiappe<sup>3</sup>, Fabrizio Orlandi<sup>1</sup> and Declan O’Sullivan<sup>1</sup>
 
@@ -11,6 +9,8 @@ Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Solange G
 <sup>2</sup> The European Institute for Innovation Through Health Data (i-HD), Ghent, Belgium
 
 <sup>3</sup> Department of Rheumatology, Kantonsspital St.Gallen, St. Gallen, Switzerland
+
+**Contact:** albert.navarro@adaptcentre.ie
 
 ## Background
 Researchers are confronted with increased data protection risks when trying to publish in an open manner data related to their studies into environmental factors related to rare diseases, even if the data is pseudonymised. Identification risks exist for the patients being studied, in terms of singling out an individual, data linking with other sources, or inferencing certain data from the linked data [1]. In addition, effective anonymization methods cannot be applied without losing the value of the data for research with low sample sizes, as in rare diseases [2]. For example, permuting the environmental observations would affect the temporality of the data or introducing noise would affect the magnitude of the values. Both methods can potentially hide the signal that the researchers are looking for.
