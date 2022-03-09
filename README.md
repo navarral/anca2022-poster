@@ -2,7 +2,7 @@
 [The 20th International Vasculitis and ANCA Workshop | Dublin, Ireland, 3-6 April 2022](https://vasculitis2022.org/)
 
 ## Authors
-Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Solange Gonzalez Chiappe<sup>3</sup>, Fabrizio Orlandi<sup>1</sup> and Declan O’Sullivan<sup>1</sup>
+Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Solange Gonzalez Chiappe<sup>3</sup>, Nathan Lea<sup>2</sup>, Dipak Kalra<sup>2</sup>, Fabrizio Orlandi<sup>1</sup> and Declan O’Sullivan<sup>1</sup>
 
 <sup>1</sup> ADAPT Centre for Digital Content, Trinity College Dublin, Dublin, Ireland
 
